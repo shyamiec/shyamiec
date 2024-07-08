@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shyam Sunder Agrahari.
-- 👀 I’m interested in Xamarin Technology (Xamarin Forms, Xamarin.Android ,Xamarin.UWP ) and Angular.
-- 🌱 I’m currently learning Angular FrameWork.
+- 👀 I’m interested in Web Technology Blazor and React frmaework.
 - 📫 https://www.linkedin.com/in/shyam-sunder-agrahari-8b44a611b/
 
 <!---
